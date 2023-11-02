@@ -1,6 +1,6 @@
 # Persona-based, Multimodal, Multiskill Virtual Assistant
 
-A project I'm working on with [Ellie Nguyen](https://www.linkedin.com/in/ellienguyen5/)
+A project I'm working on with [Ellie Nguyen](https://www.linkedin.com/in/ellienguyen5/).
 
 This personal project will be updated more this upcoming January, as right now I am focusing on my work at Stanford OVAL Labs and Stanford NLP Labs.
 
